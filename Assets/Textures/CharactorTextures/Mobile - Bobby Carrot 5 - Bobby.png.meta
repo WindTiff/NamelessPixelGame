@@ -1,0 +1,942 @@
+fileFormatVersion: 2
+guid: 48433a31f4f8681459c59d3c06a66b18
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mobile - Bobby Carrot 5 - Bobby_0
+    21300002: Mobile - Bobby Carrot 5 - Bobby_1
+    21300004: Mobile - Bobby Carrot 5 - Bobby_2
+    21300006: Mobile - Bobby Carrot 5 - Bobby_3
+    21300008: Mobile - Bobby Carrot 5 - Bobby_4
+    21300010: Mobile - Bobby Carrot 5 - Bobby_5
+    21300012: Mobile - Bobby Carrot 5 - Bobby_6
+    21300014: Mobile - Bobby Carrot 5 - Bobby_7
+    21300016: Mobile - Bobby Carrot 5 - Bobby_8
+    21300018: Mobile - Bobby Carrot 5 - Bobby_9
+    21300020: Mobile - Bobby Carrot 5 - Bobby_10
+    21300022: Mobile - Bobby Carrot 5 - Bobby_11
+    21300024: Mobile - Bobby Carrot 5 - Bobby_12
+    21300026: Mobile - Bobby Carrot 5 - Bobby_13
+    21300028: Mobile - Bobby Carrot 5 - Bobby_14
+    21300030: Mobile - Bobby Carrot 5 - Bobby_15
+    21300032: Mobile - Bobby Carrot 5 - Bobby_16
+    21300034: Mobile - Bobby Carrot 5 - Bobby_17
+    21300036: Mobile - Bobby Carrot 5 - Bobby_18
+    21300038: Mobile - Bobby Carrot 5 - Bobby_19
+    21300040: Mobile - Bobby Carrot 5 - Bobby_20
+    21300042: Mobile - Bobby Carrot 5 - Bobby_21
+    21300044: Mobile - Bobby Carrot 5 - Bobby_22
+    21300046: Mobile - Bobby Carrot 5 - Bobby_23
+    21300048: Mobile - Bobby Carrot 5 - Bobby_24
+    21300050: Mobile - Bobby Carrot 5 - Bobby_25
+    21300052: Mobile - Bobby Carrot 5 - Bobby_26
+    21300054: Mobile - Bobby Carrot 5 - Bobby_27
+    21300056: Mobile - Bobby Carrot 5 - Bobby_28
+    21300058: Mobile - Bobby Carrot 5 - Bobby_29
+    21300060: Mobile - Bobby Carrot 5 - Bobby_30
+    21300062: Mobile - Bobby Carrot 5 - Bobby_31
+    21300064: Mobile - Bobby Carrot 5 - Bobby_32
+    21300066: Mobile - Bobby Carrot 5 - Bobby_33
+    21300068: Mobile - Bobby Carrot 5 - Bobby_34
+    21300070: Mobile - Bobby Carrot 5 - Bobby_35
+    21300072: Mobile - Bobby Carrot 5 - Bobby_36
+    21300074: Mobile - Bobby Carrot 5 - Bobby_37
+    21300076: Mobile - Bobby Carrot 5 - Bobby_38
+    21300078: Mobile - Bobby Carrot 5 - Bobby_39
+    21300080: Mobile - Bobby Carrot 5 - Bobby_40
+    21300082: Mobile - Bobby Carrot 5 - Bobby_41
+    21300084: Mobile - Bobby Carrot 5 - Bobby_42
+    21300086: Mobile - Bobby Carrot 5 - Bobby_43
+    21300088: Mobile - Bobby Carrot 5 - Bobby_44
+    21300090: Mobile - Bobby Carrot 5 - Bobby_45
+    21300092: Mobile - Bobby Carrot 5 - Bobby_46
+    21300094: Mobile - Bobby Carrot 5 - Bobby_47
+    21300096: Mobile - Bobby Carrot 5 - Bobby_48
+    21300098: Mobile - Bobby Carrot 5 - Bobby_49
+    21300100: Mobile - Bobby Carrot 5 - Bobby_50
+    21300102: Mobile - Bobby Carrot 5 - Bobby_51
+    21300104: Mobile - Bobby Carrot 5 - Bobby_52
+    21300106: Mobile - Bobby Carrot 5 - Bobby_53
+    21300108: Mobile - Bobby Carrot 5 - Bobby_54
+    21300110: Mobile - Bobby Carrot 5 - Bobby_55
+    21300112: Mobile - Bobby Carrot 5 - Bobby_56
+    21300114: Mobile - Bobby Carrot 5 - Bobby_57
+    21300116: Mobile - Bobby Carrot 5 - Bobby_58
+    21300118: Mobile - Bobby Carrot 5 - Bobby_59
+    21300120: Mobile - Bobby Carrot 5 - Bobby_60
+    21300122: Mobile - Bobby Carrot 5 - Bobby_61
+    21300124: Mobile - Bobby Carrot 5 - Bobby_62
+    21300126: Mobile - Bobby Carrot 5 - Bobby_63
+    21300128: Mobile - Bobby Carrot 5 - Bobby_64
+    21300130: Mobile - Bobby Carrot 5 - Bobby_65
+    21300132: Mobile - Bobby Carrot 5 - Bobby_66
+    21300134: Mobile - Bobby Carrot 5 - Bobby_67
+    21300136: Mobile - Bobby Carrot 5 - Bobby_68
+    21300138: Mobile - Bobby Carrot 5 - Bobby_69
+    21300140: Mobile - Bobby Carrot 5 - Bobby_70
+    21300142: Mobile - Bobby Carrot 5 - Bobby_71
+    21300144: Mobile - Bobby Carrot 5 - Bobby_72
+    21300146: Mobile - Bobby Carrot 5 - Bobby_73
+    21300148: Mobile - Bobby Carrot 5 - Bobby_74
+    21300150: Mobile - Bobby Carrot 5 - Bobby_75
+    21300152: Mobile - Bobby Carrot 5 - Bobby_76
+    21300154: Mobile - Bobby Carrot 5 - Bobby_77
+    21300156: Mobile - Bobby Carrot 5 - Bobby_78
+    21300158: Mobile - Bobby Carrot 5 - Bobby_79
+    21300160: Mobile - Bobby Carrot 5 - Bobby_80
+    21300162: Mobile - Bobby Carrot 5 - Bobby_81
+    21300164: Mobile - Bobby Carrot 5 - Bobby_82
+    21300166: Mobile - Bobby Carrot 5 - Bobby_83
+    21300168: Mobile - Bobby Carrot 5 - Bobby_84
+    21300170: Mobile - Bobby Carrot 5 - Bobby_85
+    21300172: Mobile - Bobby Carrot 5 - Bobby_86
+    21300174: Mobile - Bobby Carrot 5 - Bobby_87
+    21300176: Mobile - Bobby Carrot 5 - Bobby_88
+    21300178: Mobile - Bobby Carrot 5 - Bobby_89
+    21300180: Mobile - Bobby Carrot 5 - Bobby_90
+    21300182: Mobile - Bobby Carrot 5 - Bobby_91
+    21300184: Mobile - Bobby Carrot 5 - Bobby_92
+    21300186: Mobile - Bobby Carrot 5 - Bobby_93
+    21300188: Mobile - Bobby Carrot 5 - Bobby_94
+    21300190: Mobile - Bobby Carrot 5 - Bobby_95
+    21300192: Mobile - Bobby Carrot 5 - Bobby_96
+    21300194: Mobile - Bobby Carrot 5 - Bobby_97
+    21300196: Mobile - Bobby Carrot 5 - Bobby_98
+    21300198: Mobile - Bobby Carrot 5 - Bobby_99
+    21300200: Mobile - Bobby Carrot 5 - Bobby_100
+    21300202: Mobile - Bobby Carrot 5 - Bobby_101
+    21300204: Mobile - Bobby Carrot 5 - Bobby_102
+    21300206: Mobile - Bobby Carrot 5 - Bobby_103
+    21300208: Mobile - Bobby Carrot 5 - Bobby_104
+    21300210: Mobile - Bobby Carrot 5 - Bobby_105
+    21300212: Mobile - Bobby Carrot 5 - Bobby_106
+    21300214: Mobile - Bobby Carrot 5 - Bobby_107
+    21300216: Mobile - Bobby Carrot 5 - Bobby_108
+    21300218: Mobile - Bobby Carrot 5 - Bobby_109
+    21300220: Mobile - Bobby Carrot 5 - Bobby_110
+    21300222: Mobile - Bobby Carrot 5 - Bobby_111
+    21300224: Mobile - Bobby Carrot 5 - Bobby_112
+    21300226: Mobile - Bobby Carrot 5 - Bobby_113
+    21300228: Mobile - Bobby Carrot 5 - Bobby_114
+    21300230: Mobile - Bobby Carrot 5 - Bobby_115
+    21300232: Mobile - Bobby Carrot 5 - Bobby_116
+    21300234: Mobile - Bobby Carrot 5 - Bobby_117
+    21300236: Mobile - Bobby Carrot 5 - Bobby_118
+    21300238: Mobile - Bobby Carrot 5 - Bobby_119
+    21300240: Mobile - Bobby Carrot 5 - Bobby_120
+    21300242: Mobile - Bobby Carrot 5 - Bobby_121
+    21300244: Mobile - Bobby Carrot 5 - Bobby_122
+    21300246: Mobile - Bobby Carrot 5 - Bobby_123
+    21300248: Mobile - Bobby Carrot 5 - Bobby_124
+    21300250: Mobile - Bobby Carrot 5 - Bobby_125
+    21300252: Mobile - Bobby Carrot 5 - Bobby_126
+    21300254: Mobile - Bobby Carrot 5 - Bobby_127
+    21300256: Mobile - Bobby Carrot 5 - Bobby_128
+    21300258: Mobile - Bobby Carrot 5 - Bobby_129
+    21300260: Mobile - Bobby Carrot 5 - Bobby_130
+    21300262: Mobile - Bobby Carrot 5 - Bobby_131
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 603
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2325e2284c1474690c8b5b1b5188d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 603
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4869e6fbd6a4364ab2103d69d5c2869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 603
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8bf50c4229696499df7710fd690845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 603
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99c0af0bdfd58e4c8a7a57da2e39d11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 603
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7664885a6bec55499d5c8f6e5f98a22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 603
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24608e24fef3fd4498609186404ac0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 603
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6d55cd6b9927b4e87d60fdede436e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 603
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31500814bd9882f4f80597de02f27a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 553
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34a187e75e6d3446997a1f5575bdc56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 553
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2b2b61a4c86cb4883d63d16d9f635d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 553
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55980a5aaa593f141891670c47453b66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 553
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bec241a81315e4caf0040f0fa9fd09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 553
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116b2346b1b9e314bba014563c0af856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 553
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba7f3b712ca96448cc01c7b7cebe6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 553
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3780fdc24d73f22458b8d19e0012502b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 553
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cea8757d237ec04aba95450b271c2ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 503
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd229447e8bd8b42a77b9484cbc740f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 503
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882784ff566faf448961ddc0abd14a86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 503
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302ae49779915c744aed29a5db52e9f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 503
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a0cf71a661dc145a5cd9ba25b2d18b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 503
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681736b9961473849a04bd7d8b494c69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 503
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de98e21fbc88d348bdcc029b6a73c66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 503
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24708883bf6a44d48845d49c71994213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 503
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98ec6ef9ccba264b9c1d736c0692994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 453
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99138fe64de16648ac6010e94a93dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 453
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8daad6bf2d70f746b5bc225828a43eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 453
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ebbf413df81d3429fba544b7ec2979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 453
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4024aec22b09d5c45bbc382087de2fe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_34
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 453
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a417b8abee27c04438d38193c8859544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 453
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f45948135b56042a7f5ff279cf9b20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 453
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b683e1547e14b824bb17752142f6f6dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 453
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50bd0954a4587a45bf1a3e76733b77d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 403
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0c46f9c35b1f24e856a999feec76af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 403
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560c31ee25548f648987c0169d6d59e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bobby Carrot 5 - Bobby_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 403
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794b0ad98a3ecd143b4ef42ab0feddfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c1630f906f3e9304690b8f686dc6b9b7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
