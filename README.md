@@ -1,2 +1,2 @@
 # NamelessPixelGame
- A Selfmade Wuxia Pixel Game
+目前处在开坑阶段，只实现了一个简单的连击连招机制……
